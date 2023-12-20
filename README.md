@@ -1,8 +1,6 @@
-### Hi there 👋
+Hello Im Iskandarov 👋
 
 <!--
-<h3 Hellow Im Iskandar >
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
