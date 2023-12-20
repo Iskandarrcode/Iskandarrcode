@@ -1,4 +1,4 @@
-Hello Im Iskandarov 👋
+Hello Im Iskandar 👋
 
 <!--
 - 🔭 I’m currently working on ...
